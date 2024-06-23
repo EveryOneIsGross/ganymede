@@ -1,4 +1,5 @@
 # ganymede
+![dithered_ganymede](https://github.com/EveryOneIsGross/ganymede/assets/23621140/8d30c260-1ddf-4b1b-9680-149d63363170)
 
 ```
 Problem: What is 2 * 16?
