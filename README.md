@@ -1,5 +1,5 @@
 # ganymede
-![dithered_ganymede](https://github.com/EveryOneIsGross/ganymede/assets/23621140/8d30c260-1ddf-4b1b-9680-149d63363170)
+
 
 ```
 Problem: What is 2 * 16?
@@ -20,6 +20,7 @@ Rollout 10/10
 Best answer: The result of \(2\) times \(16\) is \(32\).
 ```
 
+![dithered_ganymede](https://github.com/EveryOneIsGross/ganymede/assets/23621140/8d30c260-1ddf-4b1b-9680-149d63363170)
 
 my budget smol implementation of q* : 
 [https://arxiv.org/abs/2406.07394](https://arxiv.org/abs/2406.07394)
