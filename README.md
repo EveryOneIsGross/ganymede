@@ -1,5 +1,6 @@
 # ganymede
 
+Uses OLLAMA and QWEN2s smollest model for running local.
 
 ```
 Problem: What is 2 * 16?
